@@ -66,7 +66,7 @@ function locomotiveAnimation() {
     tl.to("#loader", {
       opacity: 0,
       duration: 0.2,
-      delay: 0,
+      delay: 2.7,
     });
     tl.from("#page1", {
       delay: 0.1,
